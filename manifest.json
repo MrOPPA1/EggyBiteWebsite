@@ -1,11 +1,11 @@
 {
-    "name": "flutter_website",
-    "short_name": "flutter_website",
+    "name": "EggyBiteWebsite",
+    "short_name": "EggyBiteWebsite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The flutter.dev website rebuilt in Flutter.",
+    "description": "EggyBiteWebsite",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
